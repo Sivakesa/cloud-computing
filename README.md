@@ -46,6 +46,25 @@ experiment 12
 ![image](https://user-images.githubusercontent.com/112737435/192735361-1b0cf4a5-5c89-4511-b090-5c8fedabec00.png)
 ![image](https://user-images.githubusercontent.com/112737435/192735434-3ff97db1-f809-402f-995b-92f4e64b04f3.png)
 ![image](https://user-images.githubusercontent.com/112737435/192735482-4a974707-1618-477d-8778-d0ec97e4bb54.png)
+experiment 13
+()
+![image](https://user-images.githubusercontent.com/112737435/192938370-d04af326-befe-48a9-a066-96b4b3048f12.png)
+![image](https://user-images.githubusercontent.com/112737435/192938345-7f17964c-c11f-4f89-8925-0e958197e279.png)
+![image](https://user-images.githubusercontent.com/112737435/192938428-a2a27f31-3fc2-4b1f-a581-fd350eb4b1a3.png)
+
+experiment 14
+()
+![image](https://user-images.githubusercontent.com/112737435/192938731-6cabcd20-2931-4568-9d67-2069b61733c1.png)
+![image](https://user-images.githubusercontent.com/112737435/192938762-e0ea7859-acf3-4990-9423-d009509d603f.png)
+![image](https://user-images.githubusercontent.com/112737435/192938782-4d6f2039-c418-43ca-a151-6e9d30cf2bc0.png)
+
+
+experiment 15
+()
+![image](https://user-images.githubusercontent.com/112737435/192938811-d6ba49d4-d83b-4737-a92f-0246e4c16fb5.png)
+![image](https://user-images.githubusercontent.com/112737435/192938840-283326f3-2d8f-4298-97af-577c951c7786.png)
+![image](https://user-images.githubusercontent.com/112737435/192938866-cfdaf22c-52f9-49d5-8c37-6b9b05818982.png)
+
 
 
 
